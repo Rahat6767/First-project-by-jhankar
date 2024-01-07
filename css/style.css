@@ -1,0 +1,203 @@
+.text-box {
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.242) 100%);
+    height: 545px;
+    width: 100%;
+    border-radius: 16px;
+}
+
+#Banner {
+    background: url(../img/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 70%;
+    height: 602px;
+    margin: 20px auto;
+    border-radius: 16px;
+
+}
+
+.text-box>p {
+    display: block;
+    font-size: large;
+    color: white;
+    text-align: center;
+    padding: 188px 0 0 0;
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+
+.text-box>h1 {
+    font-size: 70px;
+    color: white;
+    line-height: 60px;
+    text-align: center;
+    padding: 0px 0 0;
+    margin-top: 0px;
+}
+
+#discount {
+    width: 70%;
+    margin: auto;
+}
+
+.discount h1 {
+    color: red;
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.discount p {
+    margin: 0;
+    text-align: center;
+    color: red;
+}
+
+.discount h3 {
+    color: rgb(7, 12, 31);
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.new-year-photo {
+    width: 60%;
+    margin: auto;
+}
+
+#midnight {
+    width: 70%;
+    margin: auto;
+    background-image: url(../img/Vectorrr.png);
+    height: 600px;
+    background-repeat: no-repeat;
+}
+
+.midnight {
+    background-image: linear-gradient(to right, rgb(0 0 0), rgba(0, 0, 0, 0.223));
+    height: 600px;
+    border-radius: 16px;
+    display: flex;
+    margin-top: 90px;
+}
+
+.midnight-text {
+    display: inline;
+    width: 70%;
+}
+
+.midnight-text h1 {
+    font-size: 74px;
+    letter-spacing: 5px;
+    padding: 90px 0 0 146px;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.midnight-text p {
+    color: #ddd;
+    padding: 0 0 0 146px;
+}
+
+.midnight-text h3 {
+    padding: 9px 0 0 169px;
+    color: #cbc3c3;
+}
+
+.midnight-img {
+    padding: 77px 159px 77px 50px;
+    width: 296px;
+}
+
+#address {
+    height: 480px;
+    width: 70%;
+    margin: auto;
+    background-image: linear-gradient(180deg, rgba(241, 200, 207, 0.63), transparent);
+    border-radius: 16px;
+    margin-top: 50px;
+}
+
+.address {
+    text-align: center;
+    font-size: 22px;
+    padding-top: 111px;
+    line-height: 22px;
+}
+
+.address span {
+    color: red;
+}
+
+.address input {
+    background-color: red;
+    height: 43px;
+    width: 107px;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+#Coming-soon {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.text-1 {
+    width: 363px;
+}
+
+.text-1 h4 {
+    color: red;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.text-1 h2 {
+    font-size: 35px;
+}
+
+.text-1 p {
+    color: #817d7d;
+}
+
+.coming-soon-img {
+    width: 463px;
+    height: 463px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 214px;
+}
+
+.coming-soon-img .image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 430px;
+    height: 430px;
+    background-color: white;
+    border-radius: 201px;
+}
+
+.coming-soon-img .image img {
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    background-color: white;
+    border-radius: 201px;
+}
+
+
+#Coming-soon .text-2 h3 {
+    font-size: 36px;
+    color: red;
+}
+
+#Coming-soon .text-2 p {
+    color: #918787;
+}
